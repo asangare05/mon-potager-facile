@@ -28,3 +28,27 @@
 ```bash
 git clone https://github.com/asangare05/mon-potager-facile.git
 cd mon-potager-facile
+
+2. Installation des dépendances
+bash
+Copy
+Edit
+npm install
+3. Configuration
+Crée un fichier .env :
+
+env
+Copy
+Edit
+OPENAI_API_KEY=your_openai_key_here
+4. Lancement
+bash
+Copy
+Edit
+npm start
+🛠️ Technologies utilisées
+HTML / CSS / JavaScript
+
+React / Vue / Flask / Node.js
+
+API OpenAI
